@@ -1,9 +1,9 @@
-# Android canvas game
+# Android Pac-Man game using canvas
 
 ## Overview
 
 This is supposed to be a simple canvas-based android game.
-The mechanics are similar to the ones in the game Pacman (collect all coins to win).
+The mechanics are similar to the ones in the game Pac-Man (collect all coins to win).
 
 ### Current status
 
