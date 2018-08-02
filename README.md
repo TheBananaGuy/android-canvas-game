@@ -1,5 +1,9 @@
 # Android Pac-Man game using canvas
 
+## Disclaimer
+
+This was an educational projecct during my studies in BAAA (Business Academy Aarhus)
+
 ## Overview
 
 This is supposed to be a simple canvas-based android game.
